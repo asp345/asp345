@@ -4,15 +4,18 @@
 - 🇰🇷 Namyangju-si, South Korea
 - 🎂 2004. 04. 29.
 
+### 🚀 My work
+- Backend developer @ SNUTT (2024.04. ~)
+- and more soon
+
 ### 📩 Contact
 <a target="_blank" rel="noopener noreferrer" href="https://www.discord.com/users/215015181271433217"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white"></a>
 
-### 🚀 Setups
+### 🌭 Setups
 - PC #1: Gentoo Linux, AMD Ryzen 5600X, Gigabyte RTX 3060 12G, MSI MAG B550M, DDR4 32G
 - PC #2: Proxmox VE, AMD Ryzen 5600, RTX 3060 12G, Asrock AB350 Pro4, DDR4 16G
 - PC #3: Proxmox VE, AMD Ryzen 3600X, RX570 4G, ASUS A320M-K, DDR4 16G
 - Laptop #1: Zenbook 14 UM3402YAR, Arch Linux, AMD Ryzen 7530U, DDR4 16G
-- and more
 
 ### ⛏️ Stats
 #### &ensp; Solved.ac
